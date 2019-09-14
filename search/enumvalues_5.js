@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['fataltype_5ferrorscreen',['FatalType_ErrorScreen',['../fatal_8h.html#a7c972b712c66b1db403abb6722a90a29a27d846bea2ad5d40d5d614b964b31886',1,'fatal.h']]],
+  ['fs_5fcreate_5fbig_5ffile',['FS_CREATE_BIG_FILE',['../fs_8h.html#a35f12857b1e409a1d6655dacce68a4b1a272aad9d361f2cfd157085bc73d1520c',1,'fs.h']]],
+  ['fs_5fdiropen_5fdirectory',['FS_DIROPEN_DIRECTORY',['../fs_8h.html#ab72fd68e80e15a2f6ce25a1562c17910a0b3f5a735863cf5998b41cf73f85151f',1,'fs.h']]],
+  ['fs_5fdiropen_5ffile',['FS_DIROPEN_FILE',['../fs_8h.html#ab72fd68e80e15a2f6ce25a1562c17910a263e3d9ba09bc194ac087e6ee7a93573',1,'fs.h']]],
+  ['fs_5fdiropen_5fno_5ffile_5fsize',['FS_DIROPEN_NO_FILE_SIZE',['../fs_8h.html#ab72fd68e80e15a2f6ce25a1562c17910a53186858e64800a5acc077c0e10749aa',1,'fs.h']]],
+  ['fs_5fopen_5fappend',['FS_OPEN_APPEND',['../fs_8h.html#a97b17c565a9ad89b0a012d62b51d578aab8d08c58d1135cdacccb02b022853704',1,'fs.h']]],
+  ['fs_5fopen_5fread',['FS_OPEN_READ',['../fs_8h.html#a97b17c565a9ad89b0a012d62b51d578aaebc25118925a19a2d7d8593fdb21a574',1,'fs.h']]],
+  ['fs_5fopen_5fwrite',['FS_OPEN_WRITE',['../fs_8h.html#a97b17c565a9ad89b0a012d62b51d578aa3bd1b8a673bf36d0d7aa8eb543dc3fb2',1,'fs.h']]],
+  ['fs_5freadoption_5fnone',['FS_READOPTION_NONE',['../fs_8h.html#a9888848f9deed46e71a5f3fc4d254c18af2e1127256f571c6d8cd778a6f8a9758',1,'fs.h']]],
+  ['fs_5fwriteoption_5fflush',['FS_WRITEOPTION_FLUSH',['../fs_8h.html#ad424c908314d2fe07a9389cd733bfe71a2ebc2b36906c641854359ea4dcf93b27',1,'fs.h']]],
+  ['fs_5fwriteoption_5fnone',['FS_WRITEOPTION_NONE',['../fs_8h.html#ad424c908314d2fe07a9389cd733bfe71a33a1ba3c3abd352b84d2704495b89de8',1,'fs.h']]],
+  ['fsgamecardattribute_5fautoboot',['FsGameCardAttribute_AutoBoot',['../fs_8h.html#aefd0c5cabd91e9e02329051d12448b03ae2980af27c5690e922fa984b7900dc79',1,'fs.h']]],
+  ['fsgamecardattribute_5fforceerror',['FsGameCardAttribute_ForceError',['../fs_8h.html#aefd0c5cabd91e9e02329051d12448b03a32c970fb62b0d5a0b54cc0b0b58a42f1',1,'fs.h']]],
+  ['fsgamecardattribute_5frepair',['FsGameCardAttribute_Repair',['../fs_8h.html#aefd0c5cabd91e9e02329051d12448b03a6057fb843ae49c874124e27ac8cb387b',1,'fs.h']]],
+  ['fsoperationid_5fclear',['FsOperationId_Clear',['../fs_8h.html#a23ad68084bbba9d8a7be55285c39eb88a9f169b9b7a2a6fbc10d70ef0274479c6',1,'fs.h']]],
+  ['fsoperationid_5fclearsignature',['FsOperationId_ClearSignature',['../fs_8h.html#a23ad68084bbba9d8a7be55285c39eb88afcf1950927578738c20522f7e27578a8',1,'fs.h']]],
+  ['fsoperationid_5finvalidatecache',['FsOperationId_InvalidateCache',['../fs_8h.html#a23ad68084bbba9d8a7be55285c39eb88a53daccc8da7bf573d40d871ed71bbde5',1,'fs.h']]],
+  ['fsoperationid_5fqueryrange',['FsOperationId_QueryRange',['../fs_8h.html#a23ad68084bbba9d8a7be55285c39eb88ae8d6c49f84693b835710534dac3fb5d6',1,'fs.h']]],
+  ['fssavedataspaceid_5fall',['FsSaveDataSpaceId_All',['../fs_8h.html#a8499196753de89e06a45dd7226dd4f09a22cbef48fdc3161cda90902d4241fdc4',1,'fs.h']]],
+  ['fssavedatatype_5fcachestorage',['FsSaveDataType_CacheStorage',['../fs_8h.html#af26ea742862240f84df930af70e0ca24ae6ddec94e86a6f7c0a0620d5a06f01be',1,'fs.h']]],
+  ['fssavedatatype_5ftemporarystorage',['FsSaveDataType_TemporaryStorage',['../fs_8h.html#af26ea742862240f84df930af70e0ca24a4a863f34c99ac0d38586090c1d0e51b0',1,'fs.h']]]
+];

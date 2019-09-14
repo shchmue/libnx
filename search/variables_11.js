@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['r',['r',['../unionCpuRegister.html#a516e9cde4e2fc6262d7cc5d1444bf381',1,'CpuRegister']]],
+  ['rank',['rank',['../structFsSave.html#a8eae4e87eea48c35ea6f76488d3ace5a',1,'FsSave::rank()'],['../structFsSaveDataInfo.html#a95dd77b90c6d7fc603ae0cd85cabf95f',1,'FsSaveDataInfo::rank()']]],
+  ['raw',['Raw',['../structIpcParsedCommand.html#a9d17cd776dca038164770ef004bba5da',1,'IpcParsedCommand']]],
+  ['rawsize',['RawSize',['../structIpcParsedCommand.html#a0e1de63b83bcf530c3eebf24a51cd5e8',1,'IpcParsedCommand']]],
+  ['rawwithoutpadding',['RawWithoutPadding',['../structIpcParsedCommand.html#a009c91cc81761577033b5178ab3ed77a',1,'IpcParsedCommand']]],
+  ['recording_5fevent',['recording_event',['../structGrcMovieMaker.html#a348118173759e0a824fc438663c47348',1,'GrcMovieMaker']]],
+  ['regioncode',['regionCode',['../structErrorEulaArg.html#ad3785de265e48b13a44279a285cc144a',1,'ErrorEulaArg']]],
+  ['register_5fset_5fflags',['register_set_flags',['../structFatalAarch64Context.html#ad7d46d43a9843ac75ad5c350e4d7c8a6',1,'FatalAarch64Context::register_set_flags()'],['../structFatalAarch32Context.html#ae7eead13eaf52e8258d28d81f69c61b0',1,'FatalAarch32Context::register_set_flags()']]],
+  ['renderer',['renderer',['../structPrintConsole.html#a7d1fdccf4719544c61acc7ce8c4e3a19',1,'PrintConsole']]],
+  ['res',['res',['../structErrorContext.html#a01fbb4b2ad0905c4aa3b9df913904def',1,'ErrorContext::res()'],['../structErrorCommonArg.html#ae98ee1e208c628a596a8618b57769f88',1,'ErrorCommonArg::res()'],['../structErrorPctlArg.html#a27a9c0268b6dd117baa4528b911859a7',1,'ErrorPctlArg::res()'],['../structWebWifiReturnValue.html#a926bc37a4c5bc567dac500806dd61371',1,'WebWifiReturnValue::res()']]],
+  ['reserved',['reserved',['../structAppletAttribute.html#a0f0404be90e9009129a4c98abb837389',1,'AppletAttribute::reserved()'],['../structCapsScreenShotAttributeForApplication.html#af75da6889673121e5bd835f97f8e0587',1,'CapsScreenShotAttributeForApplication::reserved()'],['../structCapsLoadAlbumScreenShotImageOutputForApplication.html#ae630fe950ce94a75905cb26129ff5e9a',1,'CapsLoadAlbumScreenShotImageOutputForApplication::reserved()'],['../structGrcGameMovieId.html#ad0d14d765f96693213549fe7992e7070',1,'GrcGameMovieId::reserved()']]],
+  ['resultflag',['resultFlag',['../structErrorCommonHeader.html#a19b2ce216962f3ca41606984d75e8631',1,'ErrorCommonHeader']]],
+  ['ret',['ret',['../structWebCommonReply.html#adaee968e704c3de2034f4880a99eb43b',1,'WebCommonReply::ret()'],['../structSfdnsresRequestResults.html#a7de9aa196ac691f8fe5be8abe4ef5624',1,'SfdnsresRequestResults::ret()']]],
+  ['returnbuttonflag',['returnButtonFlag',['../structSwkbdArgCommon.html#a01f142ba7358c246e9b761c4c993753e',1,'SwkbdArgCommon::returnButtonFlag()'],['../structSwkbdAppearArg.html#a04450f4fec5afc7136d1138dcf1aa3e5',1,'SwkbdAppearArg::returnButtonFlag()']]],
+  ['rev',['rev',['../structWebWifiPageArg.html#a9eed2d71e38c0af06bcd237fff92ee0c',1,'WebWifiPageArg']]],
+  ['revent',['revent',['../structEvent.html#aeff129f2c53b7b02f31605988e3c7585',1,'Event']]],
+  ['rightcolorbody',['rightColorBody',['../structHidControllerColors.html#a14489993af9ce66b4cf807a782880066',1,'HidControllerColors']]],
+  ['rightcolorbuttons',['rightColorButtons',['../structHidControllerColors.html#af1188a0c93dad146a34c48671b7fa356',1,'HidControllerColors']]]
+];

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['capsalbumentry',['CapsAlbumEntry',['../structCapsAlbumEntry.html',1,'']]],
+  ['capsalbumentryid',['CapsAlbumEntryId',['../structCapsAlbumEntryId.html',1,'']]],
+  ['capsalbumfiledatetime',['CapsAlbumFileDateTime',['../structCapsAlbumFileDateTime.html',1,'']]],
+  ['capsapplicationalbumentry',['CapsApplicationAlbumEntry',['../structCapsApplicationAlbumEntry.html',1,'']]],
+  ['capsapplicationalbumfileentry',['CapsApplicationAlbumFileEntry',['../structCapsApplicationAlbumFileEntry.html',1,'']]],
+  ['capsapplicationdata',['CapsApplicationData',['../structCapsApplicationData.html',1,'']]],
+  ['capsloadalbumscreenshotimageoutputforapplication',['CapsLoadAlbumScreenShotImageOutputForApplication',['../structCapsLoadAlbumScreenShotImageOutputForApplication.html',1,'']]],
+  ['capsscreenshotattribute',['CapsScreenShotAttribute',['../structCapsScreenShotAttribute.html',1,'']]],
+  ['capsscreenshotattributeforapplication',['CapsScreenShotAttributeForApplication',['../structCapsScreenShotAttributeForApplication.html',1,'']]],
+  ['capsscreenshotdecodeoption',['CapsScreenShotDecodeOption',['../structCapsScreenShotDecodeOption.html',1,'']]],
+  ['capsuseridlist',['CapsUserIdList',['../structCapsUserIdList.html',1,'']]],
+  ['clkrstsession',['ClkrstSession',['../structClkrstSession.html',1,'']]],
+  ['configentry',['ConfigEntry',['../structConfigEntry.html',1,'']]],
+  ['consolefont',['ConsoleFont',['../structConsoleFont.html',1,'']]],
+  ['consolerenderer',['ConsoleRenderer',['../structConsoleRenderer.html',1,'']]],
+  ['cpuregister',['CpuRegister',['../unionCpuRegister.html',1,'']]]
+];

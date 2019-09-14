@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['usb_5frequest_5fclear_5ffeature',['USB_REQUEST_CLEAR_FEATURE',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562a76da2a8e661b191b2c33e70f5c35396b',1,'usb.h']]],
+  ['usb_5frequest_5fget_5fconfiguration',['USB_REQUEST_GET_CONFIGURATION',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562af1e1bc551f15939c5fbc25b66c3cbf5d',1,'usb.h']]],
+  ['usb_5frequest_5fget_5fdescriptor',['USB_REQUEST_GET_DESCRIPTOR',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562ae444b57cd54924fb378c2fe622292588',1,'usb.h']]],
+  ['usb_5frequest_5fget_5finterface',['USB_REQUEST_GET_INTERFACE',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562a91be0e1b348c287a96a19b69d53ba88b',1,'usb.h']]],
+  ['usb_5frequest_5fget_5fstatus',['USB_REQUEST_GET_STATUS',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562aae77cfe1c3c6fafb83c2dccf40ef7f22',1,'usb.h']]],
+  ['usb_5frequest_5fset_5faddress',['USB_REQUEST_SET_ADDRESS',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562a277abb98078a62353378bc1f04dded1a',1,'usb.h']]],
+  ['usb_5frequest_5fset_5fconfiguration',['USB_REQUEST_SET_CONFIGURATION',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562a114d99d2fef6d8dca231e08ac8361869',1,'usb.h']]],
+  ['usb_5frequest_5fset_5fdescriptor',['USB_REQUEST_SET_DESCRIPTOR',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562a9903fc6d00f682ddb16bf4c607416d3b',1,'usb.h']]],
+  ['usb_5frequest_5fset_5ffeature',['USB_REQUEST_SET_FEATURE',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562aaf2cb29dac56a65fec5f50b93cb0fe1d',1,'usb.h']]],
+  ['usb_5frequest_5fset_5finterface',['USB_REQUEST_SET_INTERFACE',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562ad0b2b1a2d9709594947a980d4bce645d',1,'usb.h']]],
+  ['usb_5frequest_5fset_5fsel',['USB_REQUEST_SET_SEL',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562aa13bac86f2b9152963798ff3874ff654',1,'usb.h']]],
+  ['usb_5frequest_5fsynch_5fframe',['USB_REQUEST_SYNCH_FRAME',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562a4ecd57f7da528b69a5bca5863896c6bd',1,'usb.h']]],
+  ['usb_5fset_5fisoch_5fdelay',['USB_SET_ISOCH_DELAY',['../usb_8h.html#a6874e8f9ccae4d268b3b0e6e22dd3562a8dd2ac63a91f40442a4b649befac888b',1,'usb.h']]],
+  ['usbdevicespeed_5ffull',['UsbDeviceSpeed_Full',['../usbds_8h.html#ada9c240a24f496cd37eb744d4ece595ba541e38dfe4bebcace36a5cf3f739b086',1,'usbds.h']]],
+  ['usbdevicespeed_5fhigh',['UsbDeviceSpeed_High',['../usbds_8h.html#ada9c240a24f496cd37eb744d4ece595ba6a94de503345d3bdb84a5190a998b0c4',1,'usbds.h']]],
+  ['usbdevicespeed_5fsuper',['UsbDeviceSpeed_Super',['../usbds_8h.html#ada9c240a24f496cd37eb744d4ece595ba8b91d204dcdd4e58151bfd9829720989',1,'usbds.h']]],
+  ['usbhsinterfacefilterflags_5fbdeviceprotocol',['UsbHsInterfaceFilterFlags_bDeviceProtocol',['../usbhs_8h.html#a0dbdcc3c2cc14ea8e35146636c4ecd58ad132a78a55f9c60a43717bb87482313b',1,'usbhs.h']]],
+  ['usbhsinterfacefilterflags_5fidvendor',['UsbHsInterfaceFilterFlags_idVendor',['../usbhs_8h.html#a0dbdcc3c2cc14ea8e35146636c4ecd58a5c7b4c5d1a9d1b8de8cd3118c8bc771e',1,'usbhs.h']]]
+];
